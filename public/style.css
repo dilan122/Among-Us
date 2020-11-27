@@ -1,0 +1,86 @@
+* {
+    text-align:center;
+}
+.fondo{
+    background-size: cover;
+}
+a:hover{
+    border: none;
+}
+
+/*Tarea Gasolina*/
+.fondo_almacen{
+    background-image: url(./img/FondoAlmacen1.png);
+}
+.fondo_gasolina{
+    background-image: url(./img/FondoAlmacen.jpg);
+}
+.BotonGasolinaT{
+    height: 52px;
+    padding-top: 167px;
+    width: 62px;
+    padding-left: 629px;
+}
+.iconoGasolina{
+    display: inline-block;
+    background-image: url(./img/IconoGasolina.png);
+    background-size: cover;
+    height: 71px;
+    width: 57px;
+    border: 2px solid white;
+}
+
+.botonGasolina{
+ background-image: url(./img/botonGasolina.png);
+ height: 122px;
+ width: 122px;
+}
+/*Download/Upload Data*/
+.fondo_admin{
+    background-image: url(./img/FondoAdmin.png);
+}
+.fondo_tarea{
+    background-image: url(./img/FondoAdminOsc.jpg);
+}
+.arriba{
+    background-image: url(https://i.imgur.com/d0TMzcC.gif);
+    background-size: 600px 237.76px;
+    height: 237.76px;
+    width: 600px;
+    margin-left: 30%;
+    margin-top: 120px;
+    
+}
+.barra{
+    background-image: url(https://i.imgur.com/xG4KhmT.png);
+    background-size: 600px 162.24px;
+    margin-left: 30%;
+    height: 162.24px;
+    width: 600px;
+ }
+ .barra button{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+    background-color: rgb(117, 162, 192);
+    border: 2px solid white;
+ }
+.ubicacion{
+    height: 50px;
+    padding-top: 14%;
+    width: 60px;
+    padding-left: 46.5%;
+}
+.botonDownloand{
+    display: inline-block;
+    background-image: url(./img/iconoWifi.png);
+    height: 47px;
+    width: 57px;
+    border: 2px solid white;
+    
+    
+    
+}
+
+

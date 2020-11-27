@@ -1,0 +1,14 @@
+main{
+    margin: 0px 2% 0 2%;
+}
+
+
+.posCanva{
+    position: absolute;
+    top: 130px;
+    left: 100px;
+}
+
+canvas{
+    cursor: none;
+}
