@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <h1><code>Bienvendos al proyecto</code> Among Us.</h1>
+          <h1><code>Bienvenidos al proyecto</code> Among Us.</h1>
         </p>
         <div className='Component'>
           <Boton/>
