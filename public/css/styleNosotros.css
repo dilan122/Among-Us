@@ -28,18 +28,18 @@ a{
   align-items: center;
   justify-content: space-between;
   height: 100%;
-  width: 100%;
+ /** width: 100%;*/
 }
 
 header{
     height: 160px;
-    width: 100em;
+    width: 100%;        
     float: center;
     background-color: #4a377c67;
     margin-bottom: 10px;
 }
 
-nav, section, footer {
+nav, section{
     border-radius: 10px;
     padding: 15px;
     margin-top: 10px;
@@ -62,8 +62,10 @@ nav a{
 }
 
 footer{
+    margin-top: 10px;
+    border-radius: 10px;
     height: 80px;
-    width: 100em;
+    width: 100%;
     float: left;
     background-color: #4b142e67;
     overflow: hidden;
@@ -170,4 +172,8 @@ main h2{
 .texto_entrada p:first-of-type{
     margin: 0px;
     padding: 0px;
+}
+.comoJugar img{
+    width: 500px;
+    height: 350px;
 }
