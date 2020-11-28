@@ -11,9 +11,8 @@ function App() {
           <h1><code>Bienvenidos al proyecto</code> Among Us.</h1>
         </p>
         <div className='Component'>
-          <Boton/>
+          <a href="http://127.0.0.1:5500/src/Mapa.html"></a><Boton/>
         </div>
-        
       </header>
     </div>
   );
